@@ -1,0 +1,21 @@
+html {
+    font-size: large;
+    font-family: 'Comforter', cursive;
+    background-color: wheat;
+}
+
+h1 {
+    color: rgb(34, 34, 104);
+    text-align: center;
+}
+
+label, input{
+    color: darkolivegreen;
+    text-align: left;
+}
+
+main {
+    width: 600px;
+    margin: 0 auto;
+}
+
